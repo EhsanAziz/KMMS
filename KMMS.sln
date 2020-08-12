@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KMMS", "KMMS.csproj", "{BC340CB8-C4C4-4425-92D3-1DB684450EFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC340CB8-C4C4-4425-92D3-1DB684450EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC340CB8-C4C4-4425-92D3-1DB684450EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC340CB8-C4C4-4425-92D3-1DB684450EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC340CB8-C4C4-4425-92D3-1DB684450EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31E12DA1-EC7B-4B14-8660-BC76B33B334C}
+	EndGlobalSection
+EndGlobal
